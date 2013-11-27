@@ -1,1 +1,4 @@
 This is my first project on git :) 
+
+This application gets a directory, and an extenstion filter. By clicking on
+the button file with given extention in given directory will be deleted.
