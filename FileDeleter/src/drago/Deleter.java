@@ -15,7 +15,7 @@ public class Deleter {
         for (int i = 0; i < list.length; i++) {
             //file = new File(directory + list[i]);
             file = new File(directory, list[i]);
-            System.out.print(file + "  deleted : " + file.delete());
+            System.out.println(file + "  deleted : " + file.delete());
         }
     }
 }
